@@ -1,0 +1,14 @@
+Objects And Its Internal Representation In JavaScript:
+        Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript. 
+        These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all store a single value each (depending on their types).
+        Objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pair.
+
+Objects and properties:
+        Object properties are basically the same as ordinary JavaScript variables, except for the attachment to objects. The properties of an object define the characteristics of the object. We can access the properties of an object with a simple dot-notation.
+        Objects are sometimes called associative arrays, since each property is associated with a string value that can be used to access it.
+
+Create JavaScript Object with Object Literal:
+        Easiest way to create a javascript object is object literal, simply define the property and values inside curly braces.
+        Constructor is nothing but a function and with help of new keyword, constructor function allows to create multiple objects.
+        Objects can also be created using the Object.create() method. This method can be very useful, because it allows us to choose the prototype object for the object We want to create, without having to define a constructor function.
+        
